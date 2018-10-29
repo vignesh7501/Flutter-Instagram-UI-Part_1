@@ -1,0 +1,43 @@
+name: flutter_instagram_ui
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+      - assets/images/your_acc.png
+      - assets/images/friend_acc.png
+      - assets/images/images.jpeg
+      - assets/images/pic0.png
+      - assets/images/pic1.png
+      - assets/images/pic2.png
+      - assets/images/pic3.png
+      - assets/images/pic4.png
+      - assets/images/pic5.png
+      - assets/images/pic6.png
+      - assets/images/pic7.png
+      - assets/images/pic8.png
+      - assets/images/pic9.png
+      - assets/images/pic10.png
+      - assets/images/pic11.png
+      - assets/images/pic12.png
+      - assets/images/pic13.png
+      - assets/images/pic14.png
+      - assets/images/pic15.png
+
+  fonts:
+    - family: Billabong
+      fonts:
+        - asset: assets/fonts/Billabong.ttf
